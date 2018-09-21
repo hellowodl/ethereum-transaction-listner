@@ -1,0 +1,14 @@
+{
+  "name": "ethereum-transaction-listner",
+  "version": "1.0.0",
+  "description": "Scans new Ethereum blocks for provided transactions",
+  "main": "src/Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hellowodl",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.0.0-beta.36"
+  }
+}
